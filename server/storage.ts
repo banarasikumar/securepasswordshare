@@ -44,4 +44,4 @@ export class DatabaseStorage {
   async deletePassword(id: string) {
     await this.db.execute(`DELETE FROM passwords WHERE id = $1`, [id]);
   }
-}
+                          }
