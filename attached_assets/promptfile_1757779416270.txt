@@ -1,0 +1,24 @@
+Create a Simple password sharing web app. that I want to deploy it on Render With a homepage displaying.
+
+Please enter password.
+[Password entry box]
+Countdown time 
+अब से 24 घंटे के अंदर यह सभी Details, Passwords  को कॉपी कर लें या कही सुरक्षित जगह पर लिख लें या save कर लें, अन्यथा यह सभी parmanently delete हो जाएगा, 
+
+या आप save करने के बाद तुरंत भी यहां से delete कर सकते हैं।
+
+
+Then display bottom the Password Entries. In different sections. But grouped with their details like and subgrouped by ,field name,  and field values,  items.
+
+And eye emoji or icon to view passwords and a copy button next to every value.
+And  disply at bottom, tickbox and this tick, मैने save कर लिया हैं । Then  red button "अभी delete करें।" Then it will ask confirmation "सभी passwords यहां से permanently delete हो जाएगा क्या आप सहमत हैं, हां नहीं buttons.
+
+And display option in homepage/admin to create database and  master password, and that master password will be required to unlock and display all password details page at once by user.
+
+And the databse will be encrypted and saved by admin entered password
+
+The admin page will display option to enter master password,
+
+Add entry, Entry title, Add field (which will display to enter additional field's name and value option. And save option at bottom.
+
+And beautiful and colourful CSS styling and css animations, and css background, and 3d look
